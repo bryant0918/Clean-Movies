@@ -5,4 +5,4 @@ Install necessary requirements.
 
 Download vosk model.
 
-Insert the path to your own video file to clean up.
+Insert the path to your own video file to clean up and optionally adjust the list of explicit words.
